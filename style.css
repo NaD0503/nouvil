@@ -1,0 +1,19 @@
+
+.banier{
+    background-color: black;
+    display: flex; 
+    justify-content: space-around;  
+}
+.nom ,.job{
+    color: aliceblue;
+}
+
+.test{
+    background-color: #f9da8b;
+}
+h2{
+    background-color: #e6b330e3;
+}
+.logo{
+    width: 50px;
+}
